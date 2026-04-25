@@ -1,1 +1,31 @@
-
+{
+  "team_name": "Main Hero Team",
+  "description": "The central heroes of the Isekai World",
+  "members": [
+    {
+      "name": "Monkey D. Luffy",
+      "class": "Fighter",
+      "role": "Leader"
+    },
+    {
+      "name": "Ichigo Kurosaki",
+      "class": "Warrior",
+      "role": "Main DPS"
+    },
+    {
+      "name": "Frieren",
+      "class": "Mage",
+      "role": "Magic Support"
+    },
+    {
+      "name": "Sasuke Uchiha",
+      "class": "Assassin",
+      "role": "Tactical Fighter"
+    },
+    {
+      "name": "Sung Jinwoo",
+      "class": "Summoner",
+      "role": "Shadow Commander"
+    }
+  ]
+}
