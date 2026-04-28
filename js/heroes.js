@@ -1,23 +1,32 @@
-// Anime Heroes List
+// Anime Multiverse Heroes
 
 let heroes = [
 
   {
-    name: "Luffy",
-    anime: "One Piece",
-    hp: 120,
-    attack: 18,
-    defense: 10,
-    power: "Gomu Gomu"
-  },
-
-  {
-    name: "Naruto",
+    name: "Naruto Uzumaki",
     anime: "Naruto",
     hp: 110,
     attack: 17,
     defense: 9,
     power: "Rasengan"
+  },
+
+  {
+    name: "Monkey D. Luffy",
+    anime: "One Piece",
+    hp: 120,
+    attack: 18,
+    defense: 10,
+    power: "Gomu Gomu no Mi"
+  },
+
+  {
+    name: "Ichigo Kurosaki",
+    anime: "Bleach",
+    hp: 130,
+    attack: 19,
+    defense: 11,
+    power: "Getsuga Tensho"
   },
 
   {
@@ -39,12 +48,21 @@ let heroes = [
   },
 
   {
-    name: "Ichigo",
-    anime: "Bleach",
-    hp: 130,
-    attack: 19,
-    defense: 11,
-    power: "Getsuga Tensho"
+    name: "Tanjiro Kamado",
+    anime: "Demon Slayer",
+    hp: 115,
+    attack: 16,
+    defense: 10,
+    power: "Water Breathing"
+  },
+
+  {
+    name: "Gojo Satoru",
+    anime: "Jujutsu Kaisen",
+    hp: 100,
+    attack: 23,
+    defense: 9,
+    power: "Infinity"
   }
 
 ];
